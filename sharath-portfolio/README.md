@@ -1,4 +1,4 @@
-# Sharath Naik — Developer Portfolio
+# K Sharath Naik — Portfolio
 
 A responsive dark-theme React portfolio built with Vite.
 
